@@ -1,0 +1,41 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background: white;
+}
+.first_section{
+    color: green;
+    padding: 30px;
+    border: 3px solid black;
+    margin: 30px;
+
+}
+.first_section p {
+    font-size: 14px;
+    margin: 10px;
+}
+.second_section {
+    color: red;
+    padding: 30px;
+    border: 3px solid black;
+    margin: 30px;
+
+}
+.second_section p {
+    font-size: 14px;
+    margin: 10px;
+}
+.third_section {
+    color: blue;
+    padding: 30px;
+    border: 3px solid black;
+    margin: 30px;
+
+}
+.third_section p {
+    font-size: 14px;
+    margin: 10px;
+}
