@@ -1,0 +1,75 @@
+.likes_div{
+    background: skyblue;
+    padding: 10px;
+    margin: 10px;
+    border: 5px solid grey;
+}
+.likes_heading{
+    color: darkcyan;
+    text-transform: uppercase;
+}
+#likes_heading{
+    color: blue;
+    text-transform: uppercase;
+}
+.likes_ol{
+    color: darkgray;
+}
+.likes_list1{
+    color: rgb(30, 30, 97);
+    
+}
+.likes_list2{
+    color: rgb(29, 29, 122);
+    
+}
+.likes_list2{
+    color: rgb(29, 29, 122);
+    
+}
+.likes_list3{
+    color: rgb(96, 96, 219);
+    
+}
+.likes_list4{
+    color: rgb(19, 19, 216);
+    
+}
+.likes_list5{
+    color: rgb(17, 17, 49);
+    
+}
+#likes_ul{
+text-decoration: rgb(51, 51, 75);
+text-transform: capitalize;
+color: rgb(35, 35, 189);
+}
+#dislikes_div{
+    background: rgb(168, 173, 175);
+    padding: 10px;
+    margin: 10px;
+    border: 5px solid rgb(33, 33, 87);
+
+}
+.dislikes_heading{
+    color: darkcyan;
+    text-transform: uppercase;
+}
+#dislikes_heading{
+    color: rgb(17, 56, 56);
+    text-transform: uppercase;
+}
+.dislikes_list{
+    color: rgb(11, 112, 112);
+    text-decoration-style: dotted;
+}
+.dislikes_ul_list1{
+    color: black;
+}
+.dislikes_ul_list2{
+    color: rgb(252, 250, 250);
+
+}
+.dislikes_ul_list3{
+    color: blueviolet;
+}
