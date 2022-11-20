@@ -1,0 +1,77 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background: aqua;
+}
+.all_content{
+    background: white;
+    margin: 50px;
+}
+header{
+    display: flex;
+    justify-content: space-between;
+}
+.header-list ul{
+    display: flex;
+    
+
+}
+.header-logo h1{
+    padding: 10px;
+    
+    
+
+}
+.header-list li {
+    list-style-type: none;
+    padding: 10px;
+}
+.about-me{
+    display: flex;
+    margin-top: 20px;
+}
+.about_me-img img{
+    width: 150px;
+    height: 200px;
+    border-radius: 15px;
+}
+main {
+    width: 60%;
+    margin: auto;
+}
+.about_me-paragraph{
+    width: 50%;
+    text-align: center;
+    margin: auto;
+    margin-left: 20px;
+    
+}
+.about_me-paragraph h1{
+    font-size: 40px;
+    padding: 10px;
+}
+.my_career{
+    display: flex;
+    margin-top: 60px;
+    padding: 10px 10px 10px 0;
+
+}
+.my_career p{
+    width: 80%;
+}
+.my_career h1{
+    padding: 5px;
+}
+.my_career_buttons{
+    margin-right: 200px;
+    
+}
+.my_career_buttons button {
+    margin: 5px;
+    background: white;
+    border: 1px solid grey;
+    padding: 3px;
+}
